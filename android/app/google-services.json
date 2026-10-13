@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429836778807",
+    "project_id": "ai-career-guide-b03be",
+    "storage_bucket": "ai-career-guide-b03be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429836778807:android:926b0c3a9fa19c86162eb2",
+        "android_client_info": {
+          "package_name": "com.example.ai_cg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSe65NmjG49kItRQOgCUoVeOeF3FsPodA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
